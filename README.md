@@ -1,1 +1,1 @@
-An implementation of backpropagation algorithm in matlab.
+An implementation of a three-layer feed forward neural networks in matlab.
